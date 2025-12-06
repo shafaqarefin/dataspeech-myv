@@ -1,5 +1,5 @@
 datasets[audio]
-https://github.com/marianne-m/brouhaha-vad/archive/main.zip
+https://github.com/shafaqarefin/brouhaha-vad-my-v/archive/refs/heads/main.zip
 penn
 g2p
 demucs
