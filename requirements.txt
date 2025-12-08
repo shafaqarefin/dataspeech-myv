@@ -1,8 +1,2 @@
-datasets[audio]
 https://github.com/shafaqarefin/brouhaha-vad-my-v/archive/refs/heads/main.zip
-penn
-g2p
-demucs
-transformers
-accelerate
-bitsandbytes
+
