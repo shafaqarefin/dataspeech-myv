@@ -6,4 +6,3 @@ demucs
 transformers
 accelerate
 bitsandbytes
-numpy==1.24.4
