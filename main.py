@@ -1,6 +1,7 @@
 from datasets import load_dataset, Audio
 from multiprocess import set_start_method
-from dataspeech import rate_apply, pitch_apply, snr_apply, squim_apply
+from dataspeech import rate_apply , snr_apply, squim_apply
+# from dataspeech import pitch_apply
 import torch
 import argparse
 
